@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "init": "^0.1.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-media-xc",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xcamaj/social-media-xc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xcamaj/social-media-xc/issues"
+  },
+  "homepage": "https://github.com/Xcamaj/social-media-xc#readme"
 }
